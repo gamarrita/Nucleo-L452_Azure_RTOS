@@ -1,0 +1,5 @@
+core_cm4.h:2059:26:ITM_SendChar	4
+fm_debug.c:68:6:fm_debug_uint8_uart	1
+fm_debug.c:78:6:fm_debug_uint32_uart	1
+fm_debug.c:102:6:fm_debug_msg_itm	3
+fm_debug.c:120:6:fm_debug_msg_uart	1

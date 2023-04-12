@@ -1,0 +1,7 @@
+../Core/Src/app_threadx.c:53:6:App_ThreadX_Init	56	static
+../Core/Src/app_threadx.c:72:6:MX_ThreadX_Init	8	static
+../Core/Src/app_threadx.c:90:6:App_ThreadX_LowPower_Timer_Setup	24	static
+../Core/Src/app_threadx.c:110:6:App_ThreadX_LowPower_Enter	8	static
+../Core/Src/app_threadx.c:125:6:App_ThreadX_LowPower_Exit	8	static
+../Core/Src/app_threadx.c:143:7:App_ThreadX_LowPower_Timer_Adjust	16	static
+../Core/Src/app_threadx.c:159:6:refresh_thread_entry	16	static
