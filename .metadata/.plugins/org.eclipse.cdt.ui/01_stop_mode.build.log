@@ -1,10 +1,10 @@
-15:45:36 **** Incremental Build of configuration Debug for project 01_stop_mode ****
+08:44:54 **** Incremental Build of configuration Debug for project 01_stop_mode ****
 make -j12 all 
 arm-none-eabi-size   01_stop_mode.elf 
    text	   data	    bss	    dec	    hex	filename
-  25044	    124	   5860	  31028	   7934	01_stop_mode.elf
+  25828	     24	  21792	  47644	   ba1c	01_stop_mode.elf
 Finished building: default.size.stdout
  
 
-15:45:37 Build Finished. 0 errors, 0 warnings. (took 534ms)
+08:44:55 Build Finished. 0 errors, 0 warnings. (took 600ms)
 

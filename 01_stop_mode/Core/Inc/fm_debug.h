@@ -1,7 +1,6 @@
 /* @file fm_debug.h
  *
  * @brief Para incluir este header se debe hacer de la siguiente manera:
- * #include "..\..\..\..\libs\fm_debug\fm_debug.h"
  *
  *
  * @par
@@ -21,13 +20,11 @@
 // Macros, defines, microcontroller pins (dhs).
 
 /*
- * Comentar la siguiente macro para deshabilitar mis mesngajes de debug
- * por UART e ITM.
- *
+ * LA siguiente macro controla los mensajes de debug a nivel global, comentar
+ * la macro para deshabilitar todo mensaje de macro.
  *
  */
-#define FM_DEBUG
-
+//#define FM_DEBUG
 
 /*
  * Si FM_DEBUG esta definida contro individualmente cada mensaje de debug

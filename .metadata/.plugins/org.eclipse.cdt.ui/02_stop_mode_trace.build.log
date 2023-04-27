@@ -1,0 +1,10 @@
+17:53:13 **** Incremental Build of configuration Debug for project 02_stop_mode_trace ****
+make -j12 all 
+arm-none-eabi-size   02_stop_mode_trace.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27512	    124	   5900	  33536	   8300	02_stop_mode_trace.elf
+Finished building: default.size.stdout
+ 
+
+17:53:14 Build Finished. 0 errors, 0 warnings. (took 548ms)
+

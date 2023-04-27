@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;03_stop_mode_tracex&apos;" deleteContents="true" description="Delete resource &apos;03_stop_mode_tracex&apos;" element1="/03_stop_mode_tracex" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1681644354515"/>
+</session>

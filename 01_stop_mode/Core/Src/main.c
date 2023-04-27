@@ -5,6 +5,13 @@
   * @brief          : Main program body
   ******************************************************************************
   *
+  * Demostracion de como usar TreadX en bajo consumo. En el archivo
+  * app_threadx.c esta la macro FM_THREADX_NO_LOW_POWER, hay que comentar esta
+  * macro para que el uC ingrese a bajo consumo.
+  * Esta aplicacion tambien corre TraceX, solo funciona si esta des-habilitado
+  * el bajo consumo.
+  *
+  *
   *
   *
   ******************************************************************************

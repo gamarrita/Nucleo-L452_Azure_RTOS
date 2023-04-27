@@ -2,7 +2,7 @@
  *
  * @brief Este modulo envia mensajes al UART o consola ITM
  *
- * Las funciones que terminan con _itm los mesajes de envian a la consola
+ * Funciones que terminan con _itm envian los mesajes a la consola
  * de debuger, para poder ver los mensajes se tienen que configurar:
  *
  * En Cube MX:

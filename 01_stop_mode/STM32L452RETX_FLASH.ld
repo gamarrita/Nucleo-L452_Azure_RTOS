@@ -130,6 +130,12 @@ SECTIONS
     . = ALIGN(4);
   } >FLASH
 
+  .trace (NOLOAD) :
+  {
+  	. = ALIGN(4);
+  	*(.trace)    
+  } >RAM
+  
   /* Used by the startup to initialize data */
   _sidata = LOADADDR(.data);
 
@@ -147,7 +153,7 @@ SECTIONS
     _edata = .;        /* define a global symbol at data end */
 
   } >RAM AT> FLASH
-
+       
   /* Uninitialized data section into "RAM" Ram type memory */
   . = ALIGN(4);
   .bss :

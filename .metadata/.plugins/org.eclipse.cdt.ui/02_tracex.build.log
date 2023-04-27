@@ -1,0 +1,10 @@
+08:44:25 **** Incremental Build of configuration Debug for project 02_tracex ****
+make -j12 all 
+arm-none-eabi-size   02_tracex.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22808	     24	   9696	  32528	   7f10	02_tracex.elf
+Finished building: default.size.stdout
+ 
+
+08:44:26 Build Finished. 0 errors, 0 warnings. (took 602ms)
+

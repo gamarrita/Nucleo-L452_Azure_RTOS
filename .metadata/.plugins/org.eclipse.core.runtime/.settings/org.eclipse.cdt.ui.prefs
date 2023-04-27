@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
+properties.multi.displ.mode=1
+properties.multi.write.mode=4
 spelling_locale_initialized=true
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

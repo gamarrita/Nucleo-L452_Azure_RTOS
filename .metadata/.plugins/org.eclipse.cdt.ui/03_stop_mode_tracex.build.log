@@ -1,0 +1,10 @@
+08:15:23 **** Incremental Build of configuration Debug for project 03_stop_mode_tracex ****
+make -j12 all 
+arm-none-eabi-size   03_stop_mode_tracex.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29168	    124	  69900	  99192	  18378	03_stop_mode_tracex.elf
+Finished building: default.size.stdout
+ 
+
+08:15:24 Build Finished. 0 errors, 0 warnings. (took 604ms)
+
